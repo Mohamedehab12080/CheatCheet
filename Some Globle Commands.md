@@ -6,3 +6,7 @@ python -m venv BOB
 ```shell
 BOB\Scripts\activate
 ```
+### Remove from stage area
+```shell
+git restore --staged README.md
+```
